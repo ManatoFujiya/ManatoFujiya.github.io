@@ -1,0 +1,1 @@
+# ManatoFujiya.github.io
