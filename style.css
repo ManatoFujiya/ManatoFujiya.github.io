@@ -1,3 +1,15 @@
 body {
-    background: gray;
+    background: white;
+    color: black;
+    font-family: Arial, sans-serif;
+    /* margin: 0;
+    padding: 0;
+    display: flex; */
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    font-size: 20px;
+    line-height: 1.5;
+    transition: background 0.5s, color 0.5s;
 }
